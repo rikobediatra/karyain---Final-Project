@@ -1,0 +1,35 @@
+.sideNav {
+    width: fit-content;
+}
+
+.flex-column {
+  background-color: rgba(220, 111, 111, 0.2);
+  width: 15vw;
+  height: 100vh;
+  padding: 3vh 1vw 0 1vw;
+}
+
+.Logo {
+  margin-bottom: 4vh;
+  font-weight: 800;
+}
+
+.icon {
+  width: 100%;
+  height: 100%;
+  margin-right: 1vw;
+  color: #ab0fb9;
+}
+
+.nav {
+  justify-content: stretch;
+  margin-bottom: 1vh;
+}
+
+.nav-link {
+  color: #ab0fb9 !important;
+}
+
+.nav-pills {
+  --bs-nav-pills-link-active-bg: #d9d9d9;
+}

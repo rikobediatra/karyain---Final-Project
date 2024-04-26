@@ -1,0 +1,91 @@
+.regisForm {
+    height: 100vh;
+    background: linear-gradient(to right, #9767D3 50%, #F8FAFC 50%);
+}
+
+.regisForm > .navbar {
+    margin-top: 4vh;
+}
+
+h2 {
+  margin-left: 100px;
+  font-style: bold;
+  font-weight: 500;
+  color: #F8FAFC;
+}
+
+.buttonHome {
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+    background-color: #9767D3;
+    color: #F8FAFC;
+    border: none;
+    margin-right: 8vw
+  }
+
+  .logo {
+    margin-left: 5vw;
+    width: 10vw;
+  }
+
+  .kontenRegis{
+    background-color: #fff;
+    margin-top: 2vh;
+    padding-top: 1vh;
+    border-radius: 20px;
+  }
+
+  .size-image-regis {
+    width: 100%;
+    height: 100%;
+  }
+
+  .regis {
+    /* border: 1px solid #000; */
+    padding-left: 6vw;
+    padding-right: 2vw;
+  }
+
+  .registrasiForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .registrasiForm > p, label {
+    text-align: start;
+    font-weight: 600;
+  }
+
+  label{
+    margin-top: 2vh;
+  }
+
+  .registrasiForm > button {
+    margin-top: 3vh;
+    border: none;
+    border-radius: 20px;
+    color: #F8FAFC;
+    background-color: #9767D3;
+  }
+
+  .instructions {
+    font-size: 0.75rem;
+    border-radius: 0.5rem;
+    background: #000;
+    color: #fff;
+    padding: 0.25rem;
+    position: relative;
+    bottom: -10px;
+}
+
+
+.offscreen {
+    position: absolute;
+    left: -9999px;
+}
+
+.hide {
+    display: none;
+}
+
+

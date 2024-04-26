@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    padding: auto;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 18px;
+  }
+  
+  .App {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    image-orientation: from-image;
+  }
+  
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+.poppins {
+  font-family: 'Poppins', sans-serif;
+}

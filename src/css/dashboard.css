@@ -1,0 +1,26 @@
+.cardDashboard {
+    margin-top: 18vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-around;
+}
+
+.titleDashboard {
+    color: #9767D3;
+    font-weight: 800;
+}
+
+.btn-primary {
+    border: none;
+    background-color: #9767D3;
+}
+
+.btnCreate {
+    float: right;
+}
+
+.buttonDashboard {
+    margin: 5vh 0;
+}

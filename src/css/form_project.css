@@ -1,0 +1,30 @@
+h3 {
+    color: #9767D3;
+    font-weight: 700;
+}
+
+.col {
+    padding-top: 5vh;
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+
+.mb-3 {
+    text-align: left;
+}
+
+.form-control {
+    background-color: #E4E7F1;
+}
+
+.btn-create {
+    margin-top: 1rem;
+    float: left;
+    background-color: #9767D3;
+    border: none;
+    width: 20vw;
+}
+
+#formBasicDescription {
+    height: 10vh;
+}
